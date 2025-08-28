@@ -1,0 +1,8 @@
+in cmd 
+code . => opens vs code
+
+git clone repolink => clones repo
+
+git add . -> add changes done in local repo
+git commit -m "msg" -> commit 
+git push -> push the entire code

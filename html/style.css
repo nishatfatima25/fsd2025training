@@ -1,0 +1,14 @@
+/* body{
+    background-color: lightblue;
+}
+
+h2,p{
+    color: blue;
+    font-family: cursive;
+    
+} */
+
+div~p{
+    background-color: pink;
+    color: purple;
+}
