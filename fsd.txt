@@ -21,3 +21,5 @@ move from one branch to other -> git checkout "branchname"
 without creating new branch checkout to new branch -> git checkout -b "dev2" (quotes nahi  lagana hai)
 
  git diff html/1-9-25/index.html  kya changes hue wo show karta hai
+
+  git push -u origin dev1  by def it is main branch and to push in rest use this command
