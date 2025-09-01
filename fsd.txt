@@ -6,3 +6,16 @@ git clone repolink => clones repo
 git add . -> add changes done in local repo
 git commit -m "msg" -> commit 
 git push -> push the entire code
+
+
+git config --global user.name "Nishat Fatima"   set username
+git config --global user.email "its.nishatkhan004@gmail.com" set email
+$ git config --list  shows the list
+
+new branch => git branch
+
+ls -> gives list of all folders of that dir
+
+move from one branch to other -> git checkout "branchname"
+
+without creating new branch checkout to new branch -> git checkout -b "dev2" (quotes nahi  lagana hai)
